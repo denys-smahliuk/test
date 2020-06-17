@@ -7,7 +7,7 @@ The task was done using WebdriverIO and Cucumber. Following scenarios are covere
 3. Search content & check content detail page 
 4. Add content to wishlist.
 
-##HowTo
+## HowTo
 Some general steps required:
 - Install node.js (https://www.nodejs.org)
 - Enter rakuten/test folder
